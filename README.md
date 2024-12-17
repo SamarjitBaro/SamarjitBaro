@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamarjitBaro
 - 👀 I’m interested in WEB development,
-- 🧑🏻‍💻 Skills- Html5, css, Tailwind css, vanilla-JS, ReactJs, Git-Version Control.
+- 🧑🏻‍💻 Skills - ReactJs, Redux-toolkit, NextJs, Typescript, Version Control.
 
 
 
